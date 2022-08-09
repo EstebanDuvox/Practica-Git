@@ -1,0 +1,13 @@
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\bin\Debug\Ejercicio20.exe.config
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\bin\Debug\Ejercicio20.exe
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\bin\Debug\Ejercicio20.pdb
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\bin\Debug\Ejercicio20.xml
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\obj\Debug\Ejercicio20.vbprojAssemblyReference.cache
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\obj\Debug\Ejercicio20.Form1.resources
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\obj\Debug\Ejercicio20.Resources.resources
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\obj\Debug\Ejercicio20.vbproj.GenerateResource.cache
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\obj\Debug\Ejercicio20.vbproj.CoreCompileInputs.cache
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\obj\Debug\Ejercicio20.exe
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\obj\Debug\Ejercicio20.xml
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\obj\Debug\Ejercicio20.pdb
+F:\2022\Programacion\2do cuatrimestre\Ejercicio20\obj\Debug\Ejercicio20.Form2.resources
